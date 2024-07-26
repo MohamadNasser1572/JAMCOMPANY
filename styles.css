@@ -7,9 +7,9 @@ body {
 }
 
 header {
-    background-image: url('Employees.jpg'); /* Add this line */
-    background-size: cover; /* Ensure the image covers the entire header */
-    background-position: center; /* Center the image in the header */
+    background-image: url('Employees.jpg');
+    background-size: cover;
+    background-position: center;
     color: white;
     text-align: center;
     padding: 2em 0;
