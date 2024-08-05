@@ -51,11 +51,5 @@ The contact form uses [Formspree](https://formspree.io/) for handling form submi
 
 Feel free to fork the repository and submit pull requests for any improvements or bug fixes. If you have suggestions or feedback, please open an issue on the repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Thank you for visiting the JAM Retail Company website!
 # JAMWEBSITE
